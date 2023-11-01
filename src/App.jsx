@@ -10,7 +10,7 @@ function App() {
   return (
     <>    
     <header>
-      <img src="img/logo.png" alt="" />
+      <img src="src/img/logo.png" alt="" />
     </header>
 
     {data.map((elem)=>{
