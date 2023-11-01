@@ -1,5 +1,3 @@
-
-
 import './App.css'
 
 import data from "../data.json"
@@ -10,7 +8,7 @@ function App() {
   return (
     <>    
     <header>
-      <img src="src/img/logo.png" alt="" />
+      <img src="https://lereacteur-react-netflix.netlify.app/static/media/logo.696c2101.png" alt="" />
     </header>
 
     {data.map((elem)=>{
